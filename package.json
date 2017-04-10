@@ -1,0 +1,23 @@
+{
+  "name": "bot-node.js",
+  "version": "1.0.0",
+  "description": "a bot for node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bot-nodejs"
+  },
+  "keywords": [
+    "bot",
+    "nodejs"
+  ],
+  "author": "Socero",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
